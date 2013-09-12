@@ -1,0 +1,6 @@
+ngo==1.5.3
+beautifulsoup4==4.3.1
+requests==1.2.3
+wikipedia==1.0.0
+wsgiref==0.1.2
+
