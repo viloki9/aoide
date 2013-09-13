@@ -1,0 +1,8 @@
+aoide/__init__.py
+aoide/settings.py
+aoide/urls.py
+aoide/wsgi.py
+aoide.egg-info/PKG-INFO
+aoide.egg-info/SOURCES.txt
+aoide.egg-info/dependency_links.txt
+aoide.egg-info/top_level.txt
